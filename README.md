@@ -1,4 +1,4 @@
-# Marketing Campaign Data Processing
+# Marketing Campaign Data Processing and Data Visulization Process
 
 This project focuses on the data cleaning and processing of a customer marketing campaign dataset. The entire workflow is performed using the **Pandas** library within a **Google Colab** notebook.
 
@@ -41,3 +41,21 @@ The `df.groupby()` function is used to summarize the processed data:
 
 * **Google Colab:** For the notebook environment and file uploading.
 * **Pandas:** For all data loading, cleaning, processing, and aggregation tasks.
+
+The analysis is presented in a dynamic Power BI dashboard.
+
+
+
+[Image of Data Visulization.PNG]
+
+
+### Dashboard Highlights:
+* **Overall Performance:** Displays total spent and average customer age.
+* **Segmentation:** Scatter plot showing the strong correlation between Income and Total Spending, segmented by Marital Status.
+* **Product Preference:** Analysis of spending mix across categories, revealing which customer groups favor certain products (e.g., Wine vs. Meat).
+
+## Next Steps
+To explore the analysis further, download the project files:
+1.  Clone this repository.
+2.  Open the Power BI file (`.pbix`) (if available) or import the `marketing_campaign.csv` into Power BI.
+3.  Review the data model and visualizations.
