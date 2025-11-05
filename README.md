@@ -1,4 +1,4 @@
-<img width="772" height="408" alt="Data Visulization" src="https://github.com/user-attachments/assets/f7256095-43b4-4a89-9184-2a43349378cc" /># Marketing Campaign Data Processing and Data Visulization Process
+# Marketing Campaign Data Processing and Data Visulization Process
 
 This project focuses on the data cleaning and processing of a customer marketing campaign dataset. The entire workflow is performed using the **Pandas** library within a **Google Colab** notebook.
 
@@ -47,7 +47,7 @@ The analysis is presented in a dynamic Power BI dashboard.
 
 
 **###Data Visulization:**
-
+<img width="772" height="408" alt="Data Visulization" src="https://github.com/user-attachments/assets/f7256095-43b4-4a89-9184-2a43349378cc" />
 ### Dashboard Highlights:
 * **Overall Performance:** Displays total spent and average customer age.
 * **Segmentation:** Scatter plot showing the strong correlation between Income and Total Spending, segmented by Marital Status.
