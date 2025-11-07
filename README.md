@@ -60,6 +60,9 @@ To explore the analysis further, download the project files:
 3.  Review the data model and visualizations.
 
 ## Data visualization with KPI, slicer, Time -Series graph and Cards
+<img width="716" height="425" alt="KPI   SLICER-POWERBI" src="https://github.com/user-attachments/assets/28aeff99-595b-4baf-99a8-0ac41158eca4" />
+
+
 📊 Marketing Campaign Performance Dashboard
 
 This project analyzes the Marketing Campaign Dataset in Power BI to deliver an interactive dashboard and an executive summary for business stakeholders.
