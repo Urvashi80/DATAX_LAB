@@ -58,3 +58,44 @@ To explore the analysis further, download the project files:
 1.  Clone this repository.
 2.  Open the Power BI file (`.pbix`) (if available) or import the `marketing_campaign.csv` into Power BI.
 3.  Review the data model and visualizations.
+
+## Data visualization with KPI, slicer, Time -Series graph and Cards
+📊 Marketing Campaign Performance Dashboard
+
+This project analyzes the Marketing Campaign Dataset in Power BI to deliver an interactive dashboard and an executive summary for business stakeholders.
+
+🎯 Key Performance Indicators (KPIs)
+
+The dashboard focuses on these critical metrics:
+
+Category
+
+KPI Name
+Definition
+Profitability
+Total Revenue
+Sum of all product spending (e.g., Wines, Meats).
+Profitability
+Total Profit
+Revenue minus promotional costs.
+Efficiency
+CLV
+Average total spending per customer.
+Efficiency
+Response Rate
+Percentage of customers accepting the last campaign.
+Growth
+YoY Growth
+Year-over-Year change in Total Revenue.
+
+✨ Core Features
+
+Interactivity: Uses Slicers on date (Dt_Customer), demographics (Marital_Status, Education), and financial metrics (Income, Recency).
+Visuals:
+Cards for instant KPI totals.
+Line Chart for Time-Series Analysis of Revenue and YoY Growth.
+Bar/Donut Charts for customer segmentation (e.g., spending by Education Level) and campaign acceptance rates.
+Implementation: Developed using clean DAX Measures and includes a dedicated Date Table for accurate time intelligence.
+
+💡 Future Enhancements
+Focus areas include implementing Row-Level Security (RLS) and using AI Visuals (e.g., Key Influencers) to find drivers of low response rates.
