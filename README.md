@@ -61,6 +61,8 @@ To explore the analysis further, download the project files:
 
 ## Data visualization with KPI, slicer, Time -Series graph and Cards
 <img width="716" height="425" alt="KPI   SLICER-POWERBI" src="https://github.com/user-attachments/assets/28aeff99-595b-4baf-99a8-0ac41158eca4" />
+<img width="917" height="497" alt="SLICER01" src="https://github.com/user-attachments/assets/b81a45cf-08a8-4b33-80a3-393fb5be2bad" />
+
 
 
 📊 Marketing Campaign Performance Dashboard
